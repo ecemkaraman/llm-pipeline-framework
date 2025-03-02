@@ -62,5 +62,5 @@ Each step is structured as an independent module that explains **how a specific 
 
 ## 📢 License & Credits  
 - 📜 **License:** MIT  
-- 🔗 **Authored by:** [Your Name / GitHub Handle]  
+- 🔗 **Authored by:** Ecem Karaman
 - 🌍 **Join the conversation on AI & LLMs!**  
