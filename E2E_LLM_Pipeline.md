@@ -3,6 +3,8 @@
 **Text → Tokenization → Embeddings → Transformer Model → Attention → Decoding → Output Text**
 
 Each stage has **sub-components** that play a key role.
+<img width="879" alt="image" src="https://github.com/user-attachments/assets/90829c7f-19e1-406a-818c-5149e0c63f92" />
+
 
 ---
 
